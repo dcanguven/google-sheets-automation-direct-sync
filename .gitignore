@@ -3,8 +3,8 @@
 
 !.env.example
 
-credentials/
-!credentials/.gitkeep
+credentials/*
+!credentials/README.txt
 
 __pycache__/
 *.pyc
