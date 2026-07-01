@@ -1,0 +1,14 @@
+.env
+.env.*
+
+!.env.example
+
+credentials/
+!credentials/.gitkeep
+
+__pycache__/
+*.pyc
+
+.DS_Store
+
+.vscode/
